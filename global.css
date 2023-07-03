@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-outfit: Outfit;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-25xl-7: 44.7px;
+  --font-size-22xl-3: 41.3px;
+
+  /* Colors */
+  --color-midnightblue-100: #00074a;
+  --color-midnightblue-200: #01063b;
+  --color-white: #fff;
+  --color-blueviolet: #8731ff;
+}

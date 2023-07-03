@@ -1,0 +1,330 @@
+.fourth-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  width: 1566px;
+  height: 491px;
+}
+.visual-insights-makes {
+  position: absolute;
+  top: 244px;
+  left: 188px;
+  line-height: 29.97px;
+  display: inline-block;
+  width: 525px;
+}
+.change-the-game {
+  margin: 0;
+}
+.change-the-game-container {
+  position: absolute;
+  top: 114px;
+  left: 188px;
+  font-size: 41.32px;
+  line-height: 51.64px;
+}
+.home-page-change-game-visual-i-icon {
+  position: absolute;
+  top: 84px;
+  left: 729px;
+  width: 521.52px;
+  height: 318px;
+  object-fit: cover;
+}
+.fourth-page,
+.third-page-child {
+  position: absolute;
+  top: 2031px;
+  left: 0;
+  width: 1566px;
+  height: 491px;
+}
+.third-page-child {
+  top: 0;
+  background-color: var(--color-midnightblue-100);
+  height: 488px;
+}
+.home-page-lever-nurture-2-icon {
+  position: absolute;
+  top: 61px;
+  left: 188px;
+  width: 525px;
+  height: 320.12px;
+  object-fit: cover;
+}
+.its-important-for,
+.nurture-a-pool-container {
+  position: absolute;
+  top: 69px;
+  left: 728px;
+  line-height: 51.64px;
+}
+.its-important-for {
+  top: 199px;
+  font-size: var(--font-size-xl);
+  line-height: 29.97px;
+  display: inline-block;
+  width: 525px;
+}
+.third-page {
+  position: absolute;
+  top: 1419px;
+  left: 0;
+  width: 1440px;
+  height: 488px;
+  font-size: 41.32px;
+}
+.dedicated-customer-support,
+.intuitive-interface-for {
+  position: absolute;
+  top: 1324px;
+  left: 120px;
+  font-size: 44.69px;
+  line-height: 61.45px;
+  text-align: center;
+}
+.dedicated-customer-support {
+  top: 1940px;
+  left: 71px;
+}
+.meet-recruit-ease {
+  position: absolute;
+  top: 224px;
+  left: 188px;
+  line-height: 29.97px;
+  display: inline-block;
+  width: 525px;
+}
+.an-ats-that-container {
+  position: absolute;
+  top: 94px;
+  left: 188px;
+  font-size: 41.32px;
+  line-height: 51.64px;
+}
+.lever-trm-animation-75percent-icon {
+  position: absolute;
+  top: 14px;
+  left: 707px;
+  width: 546px;
+  height: 420px;
+  object-fit: cover;
+}
+.second-page {
+  position: absolute;
+  top: 803px;
+  left: 0;
+  width: 1440px;
+  height: 488px;
+}
+.brands-you-trust {
+  position: absolute;
+  top: 702px;
+  left: 290px;
+  font-size: 44.69px;
+  line-height: 61.45px;
+  text-align: center;
+}
+.first-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  width: 1566px;
+  height: 524px;
+}
+.final-image-1 {
+  position: absolute;
+  top: 79px;
+  left: 728px;
+  width: 524.52px;
+  height: 424px;
+  object-fit: cover;
+}
+.find-top-talent-container,
+.the-recruiting-landscape {
+  position: absolute;
+  top: 79px;
+  left: 188px;
+  line-height: 59.47px;
+}
+.the-recruiting-landscape {
+  top: 223px;
+  font-size: var(--font-size-xl);
+  line-height: 29.97px;
+  display: inline-block;
+  width: 525px;
+}
+.request-demo-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 23.18px;
+  background-color: var(--color-blueviolet);
+  width: 255px;
+  height: 95.82px;
+}
+.request-demo1 {
+  position: absolute;
+  top: 26.27px;
+  left: 23.18px;
+  line-height: 42.5px;
+}
+.request-demo {
+  position: absolute;
+  top: 369px;
+  left: 188px;
+  width: 255px;
+  height: 95.82px;
+  text-align: center;
+  font-size: 30.91px;
+}
+.first-page,
+.header-child {
+  position: absolute;
+  left: 0;
+  width: 1566px;
+}
+.first-page {
+  top: 151px;
+  height: 524px;
+  font-size: 47.58px;
+}
+.header-child {
+  top: 0;
+  background-color: var(--color-midnightblue-200);
+  height: 186px;
+}
+.recruit-ease {
+  position: absolute;
+  height: 28.37%;
+  width: 17.71%;
+  top: 33.4%;
+  left: 6.53%;
+  font-size: 44.69px;
+  line-height: 61.45px;
+  display: inline-block;
+}
+.vuesaxlineararrow-down-icon {
+  position: absolute;
+  height: 85.71%;
+  width: 24.24%;
+  top: 14.29%;
+  right: 0;
+  bottom: 0;
+  left: 75.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.why-us1 {
+  position: absolute;
+  height: 100%;
+  width: 70.71%;
+  top: 0;
+  left: 0;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.why-us {
+  position: absolute;
+  height: 12.81%;
+  width: 6.88%;
+  top: 41.18%;
+  right: 64.93%;
+  bottom: 46.01%;
+  left: 28.19%;
+}
+.vuesaxlineararrow-down-icon1 {
+  position: absolute;
+  height: 85.71%;
+  width: 26.67%;
+  top: 14.29%;
+  right: 0;
+  bottom: 0;
+  left: 73.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.levels1 {
+  position: absolute;
+  height: 100%;
+  width: 64.44%;
+  top: 0;
+  left: 0;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.about-us,
+.levels,
+.login,
+.pricing {
+  position: absolute;
+  height: 12.81%;
+  top: 41.18%;
+}
+.levels {
+  width: 6.25%;
+  right: 54.1%;
+  bottom: 46.01%;
+  left: 39.65%;
+}
+.about-us,
+.login,
+.pricing {
+  width: 4.51%;
+  left: 50.49%;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.about-us,
+.login {
+  width: 5.9%;
+  left: 59.58%;
+}
+.login {
+  width: 3.54%;
+  left: 72.99%;
+}
+.request-demo-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  background-color: var(--color-blueviolet);
+  width: 165px;
+  height: 62px;
+}
+.request-demo3 {
+  position: absolute;
+  top: 17px;
+  left: 15px;
+  line-height: 27.5px;
+}
+.header,
+.request-demo2 {
+  position: absolute;
+  top: 62px;
+  left: 1142px;
+  width: 165px;
+  height: 62px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 186px;
+  text-align: center;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-midnightblue-200);
+  width: 100%;
+  height: 2730px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
